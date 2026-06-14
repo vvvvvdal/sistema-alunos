@@ -2,7 +2,7 @@
 
 Sistema desenvolvido em **C** para a disciplina de Algoritmos e Estruturas de Dados 1. O objetivo é gerenciar alunos de uma escola utilizando diferentes estruturas de dados para otimizar o fluxo de matrículas.
 
-## 🛠️ Estruturas Utilizadas
+## Estruturas Utilizadas
 
 O projeto utiliza todos os conceitos fundamentais de AED1:
 
@@ -12,7 +12,7 @@ O projeto utiliza todos os conceitos fundamentais de AED1:
 4. **Fila Dinâmica (Lista de espera):** Gerencia alunos aguardando vaga por ordem de chegada, em cada série (FIFO).
 5. **Pilha Dinâmica (Histórico de exclusão):** Armazena alunos removidos.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Cadastro de alunos (ID, Nome, Idade, Média Global).
 - Arquivo binario com as informações dos alunos.
@@ -22,7 +22,7 @@ O projeto utiliza todos os conceitos fundamentais de AED1:
 - Movimentação automática da fila de espera para a turma ativa.
 - Histórico de alunos excluídos.
 
-## 💻 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```bash
 git clone https://github.com/vvvvvdal/trabalho-aed1
